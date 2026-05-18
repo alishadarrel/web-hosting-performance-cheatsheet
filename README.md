@@ -1,8 +1,15 @@
 # 🚀 Ultimate Web Hosting & Server Performance Cheat Sheet
 
-Welcome! This is a curated collection of essential commands, configurations, and optimization tips for system administrators, web developers, and site owners looking to maximize server speeds. 
+Welcome! This is a curated collection of essential commands, configurations, and optimization tips looking to maximize server speeds. 
 
 Maintained with 💡 optimism by [Alisha Darrel](https://github.com), Brand & Community Manager at [AwakeHost](https://awakehost.com).
+
+---
+
+## 📂 Repository Index
+* 🛠️ **[Core Server Benchmarks](#️-1-core-server-benchmark-commands)** - Quick Linux terminal speed tests (below).
+* ⚡ **[Nginx Configurations](./nginx.conf)** - Native server-level compression settings.
+* 🔒 **[SSH Security Hardening](./security.md)** - Production-ready server protection tactics.
 
 ---
 
